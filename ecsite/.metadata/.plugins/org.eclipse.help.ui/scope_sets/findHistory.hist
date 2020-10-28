@@ -1,0 +1,4 @@
+#Thu Sep 24 15:08:41 JST 2020
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=findHistory
